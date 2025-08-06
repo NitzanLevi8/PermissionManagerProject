@@ -25,17 +25,15 @@ Built as part of a learning project, this system helps developers easily integra
 
 ## ⚙️ Built With
 
-- **Java** (100% Kotlin-free)
+- **Java**
 - **Firebase Realtime Database**
 - **Android Jetpack** libraries (AppCompat, ConstraintLayout, Material)
 - **Custom modular architecture**
 - **Gradle Version Catalog** for clean dependency management
 
 ---
+## 🎥 Demo Video
 
-## 🚀 Getting Started
+👉 [Click here to watch the demo](./PermissionManagerProject.mp4)
 
-To run the project locally:
 
-```bash
-git clone https://github.com/NitzanLevi8/PermissionManagerProject.git
