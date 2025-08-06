@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PermissionManagerProject</string>
+    <string name="manage_permissions">Manage Permissions</string>
+    <string name="location">Location</string>
+    <string name="camera">Camera</string>
+    <string name="microphone">Microphone</string>
+    <string name="read_external_storage">Read External Storage</string>
+    <string name="read_contacts">Read Contacts</string>
+    <string name="read_phone_state">Read Phone State</string>
+    <string name="read_calendar">Read Calendar</string>
+    <string name="analytics">Analytics</string>
+    <string name="permissions">Permissions</string>
+    <string name="wifi">WiFi</string>
+    <string name="app_logo">App Logo</string>
+    <string name="welcome_to_permission_manager">Welcome to Permission Manager</string>
+    <string name="active">Active</string>
+    <string name="enabled">Enabled</string>
+    <string name="permission_description_here">Permission description here</string>
+    <string name="permission_name">Permission Name</string>
+</resources>

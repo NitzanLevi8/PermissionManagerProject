@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "343187349126",
+    "firebase_url": "https://permission-manager-project-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "permission-manager-project",
+    "storage_bucket": "permission-manager-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343187349126:android:28e5e9474b711db213bb07",
+        "android_client_info": {
+          "package_name": "com.classy.permissionmanagerproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB32M_xDO4NTbM1UcNdWpdN24x30XrWNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
