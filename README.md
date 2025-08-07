@@ -35,5 +35,7 @@ Built as part of a learning project, this system helps developers easily integra
 ## 🎥 Demo Video
 
 👉 [Click here to watch the demo](./PermissionManagerProject.mp4)
+> ℹ️ In the video, only the "AndroidWifi" network appears during scanning.  
+> This is expected behavior when using an emulator, which doesn’t provide access to real nearby WiFi networks.
 
 
